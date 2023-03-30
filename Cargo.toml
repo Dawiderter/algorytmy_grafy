@@ -1,0 +1,2 @@
+[workspace]
+members = ["zad0", "zad1", "zad2", "zad3", "zad4"]
